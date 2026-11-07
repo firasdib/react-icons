@@ -8485,10 +8485,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lucide-static@npm:^0.462.0":
-  version: 0.462.0
-  resolution: "lucide-static@npm:0.462.0"
-  checksum: 10c0/653b5364762504ac6263d91fa41d184c492dbf944b209d2cd97251ad057f70a14220af2a44d841dbdc5655381b7e7f26548b8cd9f12f5389045826bb7a04e786
+"lucide-static@npm:1.70.0":
+  version: 1.70.0
+  resolution: "lucide-static@npm:1.70.0"
+  checksum: 10c0/75c1c32871dc506cc19affd6b77426eb22643f130c6c01d6f0eda64c42f9bf46fa04ad6600dc092a8b9738311b4a9e86db3c543ebe2346513175c2b5e30d9a1c
   languageName: node
   linkType: hard
 
@@ -9640,7 +9640,7 @@ __metadata:
     glob: "npm:^13.0.0"
     ionicons: "npm:^4.6.3"
     ionicons-5: "npm:ionicons@5"
-    lucide-static: "npm:^0.462.0"
+    lucide-static: "npm:1.70.0"
     p-queue: "npm:^8.1.1"
     svgo: "npm:^3.3.3"
     typescript: "npm:6.0.3"
